@@ -152,10 +152,11 @@
 			</plugin>
 		</plugins>
 	</build>
-<developers>
-<developer>
-<name>John	Doe</name>
-<email>jdoe@example.com</email>
-</developer>
-</developers>
+	<!-- restante omitido... -->
+	<developers>
+		<developer>
+			<name>Gabrielle Gomes</name>
+			<email>gabriellegomes.si@gmail.com</email>
+		</developer>
+	</developers>
 </project>
