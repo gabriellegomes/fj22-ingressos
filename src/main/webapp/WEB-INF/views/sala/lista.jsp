@@ -14,13 +14,13 @@
                 <th colspan="4" class="text-center">Ações</th>
             
 				
+				
 				</thead>
             <tbody>
             <c:forEach var="sala" items="${salas}">
                 <tr>
                     <td class="text-center">${sala.nome}</td>
-		    <td class="text-center">${sala.}
-		 </td>
+		   			 <td class="text-center">${sala.preco}</td>
                     <td class="col-md-1">
                         <a href="/admin/sala/${sala.id}/sessoes/"
 								class="btn btn-primary">
